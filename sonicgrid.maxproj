@@ -1,16 +1,16 @@
 {
-	"name" : "sonicgrid_0.1.2",
+	"name" : "sonicgrid",
 	"version" : 1,
-	"creationdate" : 3784715156,
-	"modificationdate" : 3784727570,
-	"viewrect" : [ 361.0, 339.0, 968.0, 649.0 ],
+	"creationdate" : 3787677225,
+	"modificationdate" : 3787677226,
+	"viewrect" : [ 0.0, 0.0, 300.0, 500.0 ],
 	"autoorganize" : 1,
 	"hideprojectwindow" : 0,
 	"showdependencies" : 1,
 	"autolocalize" : 0,
 	"contents" : 	{
 		"patchers" : 		{
-			"sonicgrid_0.1.2.maxpat" : 			{
+			"sonicgrid.maxpat" : 			{
 				"kind" : "patcher",
 				"local" : 1,
 				"toplevel" : 1
