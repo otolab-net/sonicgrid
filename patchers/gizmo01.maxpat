@@ -4,7 +4,7 @@
 		"appversion" : 		{
 			"major" : 8,
 			"minor" : 5,
-			"revision" : 5,
+			"revision" : 6,
 			"architecture" : "x64",
 			"modernui" : 1
 		}
@@ -124,6 +124,10 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 215.235293388366699, 62.088235378265381, 27.0, 19.0 ],
+					"saved_object_attributes" : 					{
+						"attr_comment" : ""
+					}
+,
 					"style" : "myStyle_04",
 					"text" : "in 2"
 				}
@@ -159,7 +163,6 @@
 		"lines" : [ 			{
 				"patchline" : 				{
 					"destination" : [ "obj-5", 2 ],
-					"midpoints" : [ 224.735293388366699, 186.58823561668396, 181.235292196273804, 186.58823561668396 ],
 					"source" : [ "obj-1", 0 ]
 				}
 
