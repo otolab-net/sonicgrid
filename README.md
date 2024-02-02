@@ -1,14 +1,34 @@
 # **SONICGRID**
 
 
-**SonicGrid** è un dispositivo Max4Live pensato per riunire in uno strumento tutte le funzioni utili ai fini di una performance musicale multitraccia.
-Consiste di 4 sorgenti sonore le quali possono riprodurre suoni contenuti in una cartella all'interno del computer oppure strumenti inseriti in una qualsiasi traccia midi di Live.
-Questi suoni possono essere successivamente miscelati grazie al pad centrale, rendendo possibili sperimentazioni sonore difficilmente ottenibili con i metodi tradizionali, grazie anche ai preset di movimento del cursore selezionabili tramite l'apposito menù a tendina.
-Ogni sorgente presenta diversi parametri: pulsante per la selezione della cartella, selettore del suono tramite slider o menù a tendina (nel caso si utilizzi la modalità folder), coordinate X-Y del nodo all'interno del pad, grandezza del nodo, inviluppo ADSR, set di filtri lowpass, highpass, bandpass e band-stop (notch) con relativa Cutoff e Q, funzione di Warp e Hold del suono, switch tra modalità Folder e Instrument, funzione di Search e Preview all'interno della cartella,  funzione di Transpose e Volume.
-I parametri generali consistono di coordinate X-Y del cursore all'interno del pad, selettore del preset di movimento del cursore tramite menù a tendina, e funzione Reset per tornare alle impostazioni di partenza.
-Tutti i parametri sono inoltre automatizzabili e mappabili tramite controller MIDI.
+**SonicGrid** è un dispositivo *Max4Live* pensato per riunire in uno strumento tutte le funzioni utili ai fini di una performance musicale multitraccia.
 
-*Sviluppato da Otolab*
+Consiste di 4 sorgenti sonore le quali possono riprodurre *files audio* oppure *strumenti su traccia midi* di *Ableton Live*.
+
+Questi suoni possono essere successivamente miscelati grazie al *pad xy* centrale, rendendo possibili *sperimentazioni* sonore difficilmente ottenibili con i metodi tradizionali.
+
+Ogni sorgente presenta diversi parametri:
+
+ - selezione cartella
+ - selettore del suono tramite slider o menù (nel caso si utilizzi la modalità folder)
+ - coordinate X-Y del nodo all'interno del pad
+ - grandezza del nodo
+ - inviluppo ADSR
+ - set di filtri (lowpass, highpass, bandpass e band-stop (notch) con relativa Cutoff e Q)
+ - switch tra modalità Folder e Instrument
+ - funzione di Search e Preview dei suoni
+ - funzione di Transpose e Volume
+
+I parametri generali consistono in:
+
+ - coordinate X-Y del cursore all'interno del pad
+ - selettore del preset di movimento del cursore
+ - funzione Reset
+ 
+ Tutti i parametri sono inoltre automatizzabili e mappabili tramite controller MIDI.
+
+
+*Sun progetto Otolab*
 
 **Sviluppatori**: Luca Borroni, Manuel Farzini
 
