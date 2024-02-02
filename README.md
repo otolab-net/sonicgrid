@@ -30,7 +30,9 @@ I parametri generali consistono in:
 ---
 
 *Un progetto Otolab*
+
 **Sviluppatori**: Luca Borroni, Manuel Farzini
+
 **Collaboratori**: Massimiliano Gusmini, Martino Coffa, Guglielmo Bevilacqua
 
 ---
