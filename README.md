@@ -27,14 +27,13 @@ I parametri generali consistono in:
  
  Tutti i parametri sono inoltre automatizzabili e mappabili tramite controller MIDI.
 
+---
 
-*Sun progetto Otolab*
-
+*Un progetto Otolab*
 **Sviluppatori**: Luca Borroni, Manuel Farzini
-
 **Collaboratori**: Massimiliano Gusmini, Martino Coffa, Guglielmo Bevilacqua
 
-  
+---
 
 # **MANUALE**
 
