@@ -1,6 +1,5 @@
 # **SONICGRID**
 
-
 **SonicGrid** è un dispositivo *Max4Live* pensato per riunire in uno strumento tutte le funzioni utili ai fini di una performance musicale multitraccia.
 
 Consiste di 4 sorgenti sonore le quali possono riprodurre *files audio* oppure *strumenti su traccia midi* di *Ableton Live*.
