@@ -10,7 +10,7 @@
 		}
 ,
 		"classnamespace" : "box",
-		"rect" : [ -1.0, 94.0, 1636.0, 989.0 ],
+		"rect" : [ 0.0, 200.0, 1269.0, 573.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 1,
 		"default_fontsize" : 11.0,
@@ -32549,84 +32549,84 @@
 ,
 		"dependency_cache" : [ 			{
 				"name" : "gizmo01.maxpat",
-				"bootpath" : "~/dev/sonicgrid/patchers",
+				"bootpath" : "~/dev/sonicgrid/sonicgrid/patchers",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "gizmo02.maxpat",
-				"bootpath" : "~/dev/sonicgrid/patchers",
+				"bootpath" : "~/dev/sonicgrid/sonicgrid/patchers",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "gizmo03.maxpat",
-				"bootpath" : "~/dev/sonicgrid/patchers",
+				"bootpath" : "~/dev/sonicgrid/sonicgrid/patchers",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "gizmo04.maxpat",
-				"bootpath" : "~/dev/sonicgrid/patchers",
+				"bootpath" : "~/dev/sonicgrid/sonicgrid/patchers",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "headph_black.png",
-				"bootpath" : "~/dev/sonicgrid/media",
+				"bootpath" : "~/dev/sonicgrid/sonicgrid/media",
 				"patcherrelativepath" : "../media",
 				"type" : "PNG",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "len_black.png",
-				"bootpath" : "~/dev/sonicgrid/media",
+				"bootpath" : "~/dev/sonicgrid/sonicgrid/media",
 				"patcherrelativepath" : "../media",
 				"type" : "PNG",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "sampler01.maxpat",
-				"bootpath" : "~/dev/sonicgrid/patchers",
+				"bootpath" : "~/dev/sonicgrid/sonicgrid/patchers",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "sampler02.maxpat",
-				"bootpath" : "~/dev/sonicgrid/patchers",
+				"bootpath" : "~/dev/sonicgrid/sonicgrid/patchers",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "sampler03.maxpat",
-				"bootpath" : "~/dev/sonicgrid/patchers",
+				"bootpath" : "~/dev/sonicgrid/sonicgrid/patchers",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "sampler04.maxpat",
-				"bootpath" : "~/dev/sonicgrid/patchers",
+				"bootpath" : "~/dev/sonicgrid/sonicgrid/patchers",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "transratio.maxpat",
-				"bootpath" : "~/dev/sonicgrid/patchers",
+				"bootpath" : "~/dev/sonicgrid/sonicgrid/patchers",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "wavefaderms.maxpat",
-				"bootpath" : "~/dev/sonicgrid/patchers",
+				"bootpath" : "~/dev/sonicgrid/sonicgrid/patchers",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
