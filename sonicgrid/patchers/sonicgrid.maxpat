@@ -10,7 +10,7 @@
 		}
 ,
 		"classnamespace" : "box",
-		"rect" : [ 0.0, 120.0, 1365.0, 963.0 ],
+		"rect" : [ 118.0, 195.0, 1694.0, 885.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 1,
 		"default_fontsize" : 11.0,
@@ -56,7 +56,7 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 1879.210200771689415, 792.912692321836857, 22.042373359203339, 14.0 ],
+					"patching_rect" : [ 1882.210200771689415, 792.912692321836857, 12.415817126631737, 14.0 ],
 					"text" : "1.",
 					"textcolor" : [ 0.0, 0.0, 0.0, 1.0 ]
 				}
@@ -72,7 +72,7 @@
 					"numinlets" : 0,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 1879.210200771689415, 776.912692321836857, 27.0, 14.0 ],
+					"patching_rect" : [ 1876.918109335005283, 776.656653060018925, 27.0, 14.0 ],
 					"text" : "r liveBang",
 					"textcolor" : [ 0.0, 0.0, 0.0, 1.0 ]
 				}
@@ -690,7 +690,7 @@
 					"parameter_enable" : 1,
 					"patching_rect" : [ 4827.89812150349826, 978.325660669175022, 44.0, 15.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 991.385676585165356, 149.858778533701638, 14.33987008407712, 13.560304213315248 ],
+					"presentation_rect" : [ 957.256810613004063, 149.858778533701638, 14.33987008407712, 13.560304213315248 ],
 					"saved_attribute_attributes" : 					{
 						"activebgcolor" : 						{
 							"expression" : ""
@@ -752,7 +752,7 @@
 					"patching_rect" : [ 348.61928605343644, 55.417358722232173, 31.0, 31.0 ],
 					"pic" : "/Users/manuelfarzini/dev/sonicgrid/media/len_black.png",
 					"presentation" : 1,
-					"presentation_rect" : [ 993.846640322518397, 151.566773343483192, 10.0, 10.0 ]
+					"presentation_rect" : [ 959.717774350357104, 151.566773343483192, 10.0, 10.0 ]
 				}
 
 			}
@@ -778,7 +778,7 @@
 					"parameter_enable" : 1,
 					"patching_rect" : [ 4881.310818533102974, 978.325660669175022, 44.0, 15.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 957.402228575997697, 149.934492980509503, 14.33987008407712, 13.560304213315248 ],
+					"presentation_rect" : [ 991.402228575997697, 149.934492980509503, 14.33987008407712, 13.560304213315248 ],
 					"saved_attribute_attributes" : 					{
 						"activebgcolor" : 						{
 							"expression" : ""
@@ -840,7 +840,7 @@
 					"patching_rect" : [ 212.882886729623863, 57.417358722232173, 32.668554544448853, 28.525457976858402 ],
 					"pic" : "/Users/manuelfarzini/dev/sonicgrid/media/headph_black.png",
 					"presentation" : 1,
-					"presentation_rect" : [ 958.855046638801923, 151.514039169852481, 11.452420701168649, 10.00000000000003 ]
+					"presentation_rect" : [ 992.855046638801923, 151.514039169852481, 11.452420701168649, 10.00000000000003 ]
 				}
 
 			}
@@ -869,7 +869,7 @@
 					"parameter_enable" : 1,
 					"patching_rect" : [ 164.983833976444998, 196.667361169826393, 21.488342374563217, 12.431769636273202 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 980.398472283532783, 147.918232818513616, 35.857043319195327, 17.032520323991776 ],
+					"presentation_rect" : [ 946.26960631137149, 147.918232818513616, 35.857043319195327, 17.032520323991776 ],
 					"prototypename" : "sonicgrid_button_02",
 					"saved_attribute_attributes" : 					{
 						"activebgcolor" : 						{
@@ -973,7 +973,7 @@
 					"parameter_enable" : 1,
 					"patching_rect" : [ 164.983833976444998, 167.803821897279988, 21.488342374563217, 12.431769636273202 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 946.371889828198391, 147.918232818513616, 35.857043319195327, 17.032520323991776 ],
+					"presentation_rect" : [ 980.371889828198391, 147.918232818513616, 35.857043319195327, 17.032520323991776 ],
 					"prototypename" : "sonicgrid_button_02",
 					"saved_attribute_attributes" : 					{
 						"activebgcolor" : 						{
@@ -1176,7 +1176,7 @@
 					"parameter_enable" : 1,
 					"patching_rect" : [ 2847.185261442258252, 1028.778399828076545, 18.646294832229614, 15.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 991.385676585165356, 64.600776836975797, 14.33987008407712, 13.560304213315248 ],
+					"presentation_rect" : [ 957.385676585165356, 64.600776836975797, 14.33987008407712, 13.560304213315248 ],
 					"saved_attribute_attributes" : 					{
 						"activebgcolor" : 						{
 							"expression" : ""
@@ -1248,7 +1248,7 @@
 					"parameter_enable" : 1,
 					"patching_rect" : [ 2880.094342818292262, 1028.94842031866915, 22.195490658283234, 15.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 957.402228575997697, 64.519996770629632, 14.33987008407712, 13.560304213315248 ],
+					"presentation_rect" : [ 991.402228575997697, 64.519522388652263, 14.33987008407712, 13.560304213315248 ],
 					"saved_attribute_attributes" : 					{
 						"activebgcolor" : 						{
 							"expression" : ""
@@ -1310,7 +1310,7 @@
 					"patching_rect" : [ 109.366067389647469, 57.417358722232173, 32.676951840520246, 28.532790309725407 ],
 					"pic" : "/Users/manuelfarzini/dev/sonicgrid/media/headph_black.png",
 					"presentation" : 1,
-					"presentation_rect" : [ 958.855046638801923, 66.137601497555011, 11.452420701168649, 10.00000000000003 ]
+					"presentation_rect" : [ 992.855046638801923, 66.137127115577641, 11.452420701168649, 10.00000000000003 ]
 				}
 
 			}
@@ -1326,7 +1326,7 @@
 					"patching_rect" : [ 315.61928605343644, 55.417358722232173, 31.0, 31.0 ],
 					"pic" : "/Users/manuelfarzini/dev/sonicgrid/media/len_black.png",
 					"presentation" : 1,
-					"presentation_rect" : [ 993.846640322518397, 66.346830184339751, 10.0, 10.0 ]
+					"presentation_rect" : [ 959.846640322518397, 66.346830184339751, 10.0, 10.0 ]
 				}
 
 			}
@@ -1355,7 +1355,7 @@
 					"parameter_enable" : 1,
 					"patching_rect" : [ 164.983833976444998, 140.700771453976813, 21.488342374563217, 12.431769636273202 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 980.355559717274673, 62.50159183979963, 35.857043319195327, 17.032520323991776 ],
+					"presentation_rect" : [ 946.355559717274673, 62.50159183979963, 35.857043319195327, 17.032520323991776 ],
 					"prototypename" : "sonicgrid_button_02",
 					"saved_attribute_attributes" : 					{
 						"activebgcolor" : 						{
@@ -1459,7 +1459,7 @@
 					"parameter_enable" : 1,
 					"patching_rect" : [ 164.983833976444998, 211.099130806099595, 21.17584240436554, 12.74426960647088 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 946.328977261940281, 62.50159183979963, 35.857043319195327, 17.032520323991776 ],
+					"presentation_rect" : [ 980.328977261940281, 62.501117457822261, 35.857043319195327, 17.032520323991776 ],
 					"prototypename" : "sonicgrid_button_02",
 					"saved_attribute_attributes" : 					{
 						"activebgcolor" : 						{
@@ -3168,7 +3168,7 @@
 						}
 ,
 						"classnamespace" : "box",
-						"rect" : [ 34.0, 128.0, 796.0, 955.0 ],
+						"rect" : [ -74.0, 236.0, 1660.0, 851.0 ],
 						"bglocked" : 0,
 						"openinpresentation" : 0,
 						"default_fontsize" : 11.0,
@@ -3441,8 +3441,8 @@
 													"maxclass" : "newobj",
 													"numinlets" : 1,
 													"numoutlets" : 0,
-													"patching_rect" : [ 501.40547921180729, 517.246833622455597, 82.0, 23.0 ],
-													"text" : "s searchFile01"
+													"patching_rect" : [ 501.40547921180729, 517.246833622455597, 83.999999999999943, 23.0 ],
+													"text" : "s searchFile03"
 												}
 
 											}
@@ -3515,7 +3515,7 @@
 													"numoutlets" : 1,
 													"outlettype" : [ "" ],
 													"patching_rect" : [ 246.09708696603775, 247.167029500007629, 84.0, 23.0 ],
-													"text" : "r folderPath01"
+													"text" : "r folderPath03"
 												}
 
 											}
@@ -3667,8 +3667,8 @@
 , 											{
 												"patchline" : 												{
 													"destination" : [ "obj-23", 0 ],
-													"midpoints" : [ 321.620916604995728, 242.567551374435425, 431.081052303314209, 242.567551374435425, 431.081052303314209, 193.24323034286499, 447.028659760951996, 193.24323034286499 ],
-													"source" : [ "obj-3", 0 ]
+													"midpoints" : [ 288.686863422393799, 243.567551374435425, 431.081052303314209, 243.567551374435425, 431.081052303314209, 193.24323034286499, 447.028659760951996, 193.24323034286499 ],
+													"source" : [ "obj-4", 0 ]
 												}
 
 											}
@@ -4541,7 +4541,7 @@
 										"description" : "",
 										"digest" : "",
 										"tags" : "",
-										"style" : "my_style",
+										"style" : "my_style-1",
 										"subpatcher_template" : "<none>",
 										"assistshowspatchername" : 0,
 										"boxes" : [ 											{
@@ -4604,8 +4604,8 @@
 													"numinlets" : 0,
 													"numoutlets" : 1,
 													"outlettype" : [ "" ],
-													"patching_rect" : [ 320.542746007442474, 267.902714371681213, 79.0, 23.0 ],
-													"text" : "r folderPath01"
+													"patching_rect" : [ 320.542746007442474, 267.902714371681213, 84.0, 23.0 ],
+													"text" : "r folderPath03"
 												}
 
 											}
@@ -4888,6 +4888,86 @@
 												"multi" : 0
 											}
 , 											{
+												"name" : "my_style-1",
+												"default" : 												{
+													"accentcolor" : [ 0.059999998658895, 0.059999998658895, 0.059999998658895, 1.0 ],
+													"bgcolor" : [ 0.059999998658895, 0.059999998658895, 0.059999998658895, 1.0 ],
+													"bgfillcolor" : 													{
+														"angle" : 270.0,
+														"autogradient" : 0.0,
+														"color" : [ 0.25, 0.25, 0.25, 1.0 ],
+														"color1" : [ 0.25, 0.25, 0.25, 1.0 ],
+														"color2" : [ 0.25, 0.25, 0.25, 1.0 ],
+														"proportion" : 0.5,
+														"type" : "gradient"
+													}
+,
+													"clearcolor" : [ 0.0, 0.0, 0.0, 0.0 ],
+													"color" : [ 0.0, 0.924261331558228, 0.0, 1.0 ],
+													"editing_bgcolor" : [ 0.75, 0.75, 0.75, 1.0 ],
+													"elementcolor" : [ 0.25, 0.25, 0.25, 1.0 ],
+													"fontface" : [ 0 ],
+													"fontname" : [ "Suisse Intl News" ],
+													"fontsize" : [ 11.0 ],
+													"locked_bgcolor" : [ 0.75, 0.75, 0.75, 1.0 ],
+													"patchlinecolor" : [ 0.25, 0.25, 0.25, 1.0 ],
+													"selectioncolor" : [ 0.0, 0.924261331558228, 0.0, 1.0 ],
+													"stripecolor" : [ 0.119999997317791, 0.119999997317791, 0.119999997317791, 1.0 ],
+													"textcolor" : [ 0.0, 0.0, 0.0, 1.0 ],
+													"textcolor_inverse" : [ 0.949999988079071, 0.949999988079071, 0.949999988079071, 1.0 ],
+													"textjustification" : [ 0 ]
+												}
+,
+												"comment" : 												{
+													"clearcolor" : [ 0.0, 0.0, 0.0, 0.0 ],
+													"fontface" : [ 0 ],
+													"fontname" : [ "Suisse Intl News" ],
+													"textjustification" : [ 0 ]
+												}
+,
+												"attrui" : 												{
+													"fontface" : [ 0 ],
+													"fontname" : [ "Suisse Intl News" ],
+													"textcolor_inverse" : [ 0.949999988079071, 0.949999988079071, 0.949999988079071, 1.0 ],
+													"textjustification" : [ 0 ]
+												}
+,
+												"message" : 												{
+													"fontface" : [ 0 ],
+													"fontname" : [ "Suisse Intl News" ],
+													"textcolor_inverse" : [ 0.949999988079071, 0.949999988079071, 0.949999988079071, 1.0 ],
+													"textjustification" : [ 0 ]
+												}
+,
+												"newobj" : 												{
+													"fontface" : [ 0 ],
+													"fontname" : [ "Suisse Intl News" ],
+													"textcolor_inverse" : [ 0.949999988079071, 0.949999988079071, 0.949999988079071, 1.0 ],
+													"textjustification" : [ 0 ]
+												}
+,
+												"nodes" : 												{
+													"fontface" : [ 0 ],
+													"fontname" : [ "Suisse Intl News" ]
+												}
+,
+												"number" : 												{
+													"fontface" : [ 0 ],
+													"fontname" : [ "Suisse Intl News" ],
+													"textcolor_inverse" : [ 0.949999988079071, 0.949999988079071, 0.949999988079071, 1.0 ]
+												}
+,
+												"umenu" : 												{
+													"fontface" : [ 0 ],
+													"fontname" : [ "Suisse Intl News" ],
+													"textcolor_inverse" : [ 0.949999988079071, 0.949999988079071, 0.949999988079071, 1.0 ],
+													"textjustification" : [ 0 ]
+												}
+,
+												"parentstyle" : "",
+												"multi" : 0
+											}
+, 											{
 												"name" : "my_style_05",
 												"default" : 												{
 													"accentcolor" : [ 0.059999998658895, 0.059999998658895, 0.059999998658895, 1.0 ],
@@ -5006,7 +5086,7 @@
 										"fontname" : "Suisse Intl News",
 										"fontsize" : 11.0,
 										"globalpatchername" : "",
-										"style" : "my_style",
+										"style" : "my_style-1",
 										"tags" : ""
 									}
 ,
@@ -5395,7 +5475,7 @@
 						}
 ,
 						"classnamespace" : "box",
-						"rect" : [ 34.0, 640.0, 796.0, 443.0 ],
+						"rect" : [ 34.0, 206.0, 1660.0, 877.0 ],
 						"bglocked" : 0,
 						"openinpresentation" : 0,
 						"default_fontsize" : 11.0,
@@ -5453,7 +5533,7 @@
 										}
 ,
 										"classnamespace" : "box",
-										"openrect" : [ 34.0, 100.0, 463.0, 221.0 ],
+										"openrect" : [ 0.0, 66.0, 573.0, 722.0 ],
 										"bglocked" : 0,
 										"openinpresentation" : 1,
 										"default_fontsize" : 11.0,
@@ -5474,7 +5554,7 @@
 										"boxanimatetime" : 200,
 										"enablehscroll" : 1,
 										"enablevscroll" : 1,
-										"devicewidth" : 463.0,
+										"devicewidth" : 573.0,
 										"description" : "",
 										"digest" : "",
 										"tags" : "",
@@ -5724,10 +5804,10 @@
 													"outlettype" : [ "", "", "", "", "", "" ],
 													"parameter_enable" : 0,
 													"patching_rect" : [ 276.09708696603775, 334.757281899452209, 444.513987076282547, 207.0 ],
-													"prefix" : "Internal SSD:/Users/manuelfarzini/mydocs/audio/loops_samples/Packs/Black.Octopus.Sound.Tribal.And.African.Percussion.(SCENE)-DISCOVER/_(WAVs)_Djembe_(One-Shots)_Samples/",
+													"prefix" : "Internal SSD:/Users/manuelfarzini/mydocs/audio/loops_samples/Packs/Black.Octopus.Sound.Tribal.And.African.Percussion.(SCENE)-DISCOVER/_(WAVs)_(Bonus)_Content/",
 													"prefix_mode" : 2,
 													"presentation" : 1,
-													"presentation_rect" : [ 31.271000921726227, 31.365977883338928, 572.090261232852981, 720.581732273101807 ],
+													"presentation_rect" : [ 0.271000921726227, 1.493637502193451, 572.090261232852981, 720.581732273101807 ],
 													"preview" : 1,
 													"types" : ".wav"
 												}
@@ -5894,8 +5974,8 @@
 , 											{
 												"patchline" : 												{
 													"destination" : [ "obj-23", 0 ],
-													"midpoints" : [ 351.620916604995728, 272.567551374435425, 461.081052303314209, 272.567551374435425, 461.081052303314209, 223.24323034286499, 477.028659760951996, 223.24323034286499 ],
-													"source" : [ "obj-3", 0 ]
+													"midpoints" : [ 318.686863422393799, 272.567551374435425, 461.081052303314209, 272.567551374435425, 461.081052303314209, 223.24323034286499, 477.028659760951996, 223.24323034286499 ],
+													"source" : [ "obj-4", 0 ]
 												}
 
 											}
@@ -6644,7 +6724,7 @@
 										"description" : "",
 										"digest" : "",
 										"tags" : "",
-										"style" : "my_style_05",
+										"style" : "my_style",
 										"subpatcher_template" : "<none>",
 										"assistshowspatchername" : 0,
 										"boxes" : [ 											{
@@ -6652,29 +6732,14 @@
 													"bgcolor" : [ 0.419607843137255, 0.654901960784314, 0.741176470588235, 1.0 ],
 													"color" : [ 0.419607843137255, 0.654901960784314, 0.741176470588235, 1.0 ],
 													"fontsize" : 4.0,
-													"hidden" : 1,
-													"id" : "obj-12",
+													"id" : "obj-79",
 													"maxclass" : "newobj",
 													"numinlets" : 0,
 													"numoutlets" : 1,
 													"outlettype" : [ "" ],
-													"patching_rect" : [ 30.290323555469513, 183.087647378444672, 27.0, 14.0 ],
-													"text" : "r liveBang",
+													"patching_rect" : [ 236.574467658996582, 241.03289395570755, 20.0, 14.0 ],
+													"text" : "r clear",
 													"textcolor" : [ 0.0, 0.0, 0.0, 1.0 ]
-												}
-
-											}
-, 											{
-												"box" : 												{
-													"hidden" : 1,
-													"id" : "obj-6",
-													"linecount" : 2,
-													"maxclass" : "message",
-													"numinlets" : 2,
-													"numoutlets" : 1,
-													"outlettype" : [ "" ],
-													"patching_rect" : [ 30.290323555469513, 212.517908275127411, 32.0, 37.0 ],
-													"text" : "clear"
 												}
 
 											}
@@ -6744,7 +6809,7 @@
 													"outlettype" : [ "", "", "", "", "", "" ],
 													"parameter_enable" : 0,
 													"patching_rect" : [ 83.769396305084229, 262.37635737657547, 450.167993366718292, 264.269235551357269 ],
-													"prefix" : "Internal SSD:/Users/manuelfarzini/mydocs/audio/loops_samples/Packs/Black.Octopus.Sound.Tribal.And.African.Percussion.(SCENE)-DISCOVER/_(WAVs)_Djembe_(One-Shots)_Samples/",
+													"prefix" : "Internal SSD:/Users/manuelfarzini/mydocs/audio/loops_samples/Packs/Black.Octopus.Sound.Tribal.And.African.Percussion.(SCENE)-DISCOVER/_(WAVs)_(Bonus)_Content/",
 													"prefix_mode" : 2,
 													"presentation" : 1,
 													"presentation_rect" : [ 7.377613246440887, 38.846589863300323, 449.307419717311859, 227.153843522071838 ],
@@ -6851,14 +6916,6 @@
  ],
 										"lines" : [ 											{
 												"patchline" : 												{
-													"destination" : [ "obj-6", 0 ],
-													"hidden" : 1,
-													"source" : [ "obj-12", 0 ]
-												}
-
-											}
-, 											{
-												"patchline" : 												{
 													"destination" : [ "obj-466", 0 ],
 													"hidden" : 1,
 													"midpoints" : [ 93.269396305084229, 190.027163922786713, 93.269396305084229, 190.027163922786713 ],
@@ -6919,22 +6976,103 @@
 											}
 , 											{
 												"patchline" : 												{
-													"destination" : [ "obj-474", 0 ],
-													"hidden" : 1,
-													"source" : [ "obj-6", 0 ]
-												}
-
-											}
-, 											{
-												"patchline" : 												{
 													"destination" : [ "obj-511", 0 ],
 													"hidden" : 1,
 													"source" : [ "obj-7", 0 ]
 												}
 
 											}
+, 											{
+												"patchline" : 												{
+													"color" : [ 0.4196078431, 0.6549019608, 0.7411764706, 1.0 ],
+													"destination" : [ "obj-474", 0 ],
+													"midpoints" : [ 246.074467658996582, 258.415218234062195, 93.269396305084229, 258.415218234062195 ],
+													"source" : [ "obj-79", 0 ]
+												}
+
+											}
  ],
 										"styles" : [ 											{
+												"name" : "my_style",
+												"default" : 												{
+													"accentcolor" : [ 0.059999998658895, 0.059999998658895, 0.059999998658895, 1.0 ],
+													"bgcolor" : [ 0.059999998658895, 0.059999998658895, 0.059999998658895, 1.0 ],
+													"bgfillcolor" : 													{
+														"angle" : 270.0,
+														"autogradient" : 0.0,
+														"color" : [ 0.25, 0.25, 0.25, 1.0 ],
+														"color1" : [ 0.25, 0.25, 0.25, 1.0 ],
+														"color2" : [ 0.25, 0.25, 0.25, 1.0 ],
+														"proportion" : 0.5,
+														"type" : "gradient"
+													}
+,
+													"clearcolor" : [ 0.0, 0.0, 0.0, 0.0 ],
+													"color" : [ 0.0, 0.924261331558228, 0.0, 1.0 ],
+													"editing_bgcolor" : [ 0.75, 0.75, 0.75, 1.0 ],
+													"elementcolor" : [ 0.25, 0.25, 0.25, 1.0 ],
+													"fontface" : [ 0 ],
+													"fontname" : [ "Suisse Intl News" ],
+													"fontsize" : [ 11.0 ],
+													"locked_bgcolor" : [ 0.75, 0.75, 0.75, 1.0 ],
+													"patchlinecolor" : [ 0.25, 0.25, 0.25, 1.0 ],
+													"selectioncolor" : [ 0.0, 0.924261331558228, 0.0, 1.0 ],
+													"stripecolor" : [ 0.119999997317791, 0.119999997317791, 0.119999997317791, 1.0 ],
+													"textcolor" : [ 0.0, 0.0, 0.0, 1.0 ],
+													"textcolor_inverse" : [ 0.949999988079071, 0.949999988079071, 0.949999988079071, 1.0 ],
+													"textjustification" : [ 0 ]
+												}
+,
+												"comment" : 												{
+													"clearcolor" : [ 0.0, 0.0, 0.0, 0.0 ],
+													"fontface" : [ 0 ],
+													"fontname" : [ "Suisse Intl News" ],
+													"textjustification" : [ 0 ]
+												}
+,
+												"attrui" : 												{
+													"fontface" : [ 0 ],
+													"fontname" : [ "Suisse Intl News" ],
+													"textcolor_inverse" : [ 0.949999988079071, 0.949999988079071, 0.949999988079071, 1.0 ],
+													"textjustification" : [ 0 ]
+												}
+,
+												"message" : 												{
+													"fontface" : [ 0 ],
+													"fontname" : [ "Suisse Intl News" ],
+													"textcolor_inverse" : [ 0.949999988079071, 0.949999988079071, 0.949999988079071, 1.0 ],
+													"textjustification" : [ 0 ]
+												}
+,
+												"newobj" : 												{
+													"fontface" : [ 0 ],
+													"fontname" : [ "Suisse Intl News" ],
+													"textcolor_inverse" : [ 0.949999988079071, 0.949999988079071, 0.949999988079071, 1.0 ],
+													"textjustification" : [ 0 ]
+												}
+,
+												"nodes" : 												{
+													"fontface" : [ 0 ],
+													"fontname" : [ "Suisse Intl News" ]
+												}
+,
+												"number" : 												{
+													"fontface" : [ 0 ],
+													"fontname" : [ "Suisse Intl News" ],
+													"textcolor_inverse" : [ 0.949999988079071, 0.949999988079071, 0.949999988079071, 1.0 ]
+												}
+,
+												"umenu" : 												{
+													"fontface" : [ 0 ],
+													"fontname" : [ "Suisse Intl News" ],
+													"textcolor_inverse" : [ 0.949999988079071, 0.949999988079071, 0.949999988079071, 1.0 ],
+													"textjustification" : [ 0 ]
+												}
+,
+												"parentstyle" : "",
+												"multi" : 0
+											}
+, 											{
 												"name" : "my_style_05",
 												"default" : 												{
 													"accentcolor" : [ 0.059999998658895, 0.059999998658895, 0.059999998658895, 1.0 ],
@@ -7053,7 +7191,7 @@
 										"fontname" : "Suisse Intl News",
 										"fontsize" : 11.0,
 										"globalpatchername" : "",
-										"style" : "my_style_05",
+										"style" : "my_style",
 										"tags" : ""
 									}
 ,
@@ -7480,7 +7618,7 @@
 						}
 ,
 						"classnamespace" : "box",
-						"rect" : [ 34.0, 100.0, 796.0, 443.0 ],
+						"rect" : [ 34.0, 206.0, 1660.0, 877.0 ],
 						"bglocked" : 0,
 						"openinpresentation" : 0,
 						"default_fontsize" : 11.0,
@@ -7740,7 +7878,7 @@
 													"numinlets" : 0,
 													"numoutlets" : 1,
 													"outlettype" : [ "" ],
-													"patching_rect" : [ 332.861903786659241, 283.167029500007629, 20.0, 14.0 ],
+													"patching_rect" : [ 310.09708696603775, 283.167029500007629, 20.0, 14.0 ],
 													"text" : "r clear",
 													"textcolor" : [ 0.0, 0.0, 0.0, 1.0 ]
 												}
@@ -7979,8 +8117,8 @@
 , 											{
 												"patchline" : 												{
 													"destination" : [ "obj-23", 0 ],
-													"midpoints" : [ 321.620916604995728, 242.567551374435425, 431.081052303314209, 242.567551374435425, 431.081052303314209, 193.24323034286499, 447.028659760951996, 193.24323034286499 ],
-													"source" : [ "obj-3", 0 ]
+													"midpoints" : [ 288.686863422393799, 242.567551374435425, 431.081052303314209, 242.567551374435425, 431.081052303314209, 193.24323034286499, 447.028659760951996, 193.24323034286499 ],
+													"source" : [ "obj-4", 0 ]
 												}
 
 											}
@@ -8041,7 +8179,7 @@
 												"patchline" : 												{
 													"color" : [ 0.4196078431, 0.6549019608, 0.7411764706, 1.0 ],
 													"destination" : [ "obj-8", 0 ],
-													"midpoints" : [ 342.361903786659241, 301.611506342887878, 255.59708696603775, 301.611506342887878 ],
+													"midpoints" : [ 319.59708696603775, 301.611506342887878, 255.59708696603775, 301.611506342887878 ],
 													"source" : [ "obj-80", 0 ]
 												}
 
@@ -9707,7 +9845,7 @@
 						}
 ,
 						"classnamespace" : "box",
-						"rect" : [ 898.0, 128.0, 796.0, 415.0 ],
+						"rect" : [ 34.0, 206.0, 1331.0, 877.0 ],
 						"bglocked" : 0,
 						"openinpresentation" : 0,
 						"default_fontsize" : 11.0,
@@ -9980,8 +10118,8 @@
 													"maxclass" : "newobj",
 													"numinlets" : 1,
 													"numoutlets" : 0,
-													"patching_rect" : [ 501.40547921180729, 517.246833622455597, 82.0, 23.0 ],
-													"text" : "s searchFile01"
+													"patching_rect" : [ 501.40547921180729, 517.246833622455597, 84.0, 23.0 ],
+													"text" : "s searchFile04"
 												}
 
 											}
@@ -10054,7 +10192,7 @@
 													"numoutlets" : 1,
 													"outlettype" : [ "" ],
 													"patching_rect" : [ 246.09708696603775, 247.167029500007629, 84.0, 23.0 ],
-													"text" : "r folderPath01"
+													"text" : "r folderPath04"
 												}
 
 											}
@@ -10206,8 +10344,8 @@
 , 											{
 												"patchline" : 												{
 													"destination" : [ "obj-23", 0 ],
-													"midpoints" : [ 321.620916604995728, 242.567551374435425, 431.081052303314209, 242.567551374435425, 431.081052303314209, 193.24323034286499, 447.028659760951996, 193.24323034286499 ],
-													"source" : [ "obj-3", 0 ]
+													"midpoints" : [ 288.686863422393799, 242.567551374435425, 431.081052303314209, 242.567551374435425, 431.081052303314209, 193.24323034286499, 447.028659760951996, 193.24323034286499 ],
+													"source" : [ "obj-4", 0 ]
 												}
 
 											}
@@ -11080,7 +11218,7 @@
 										"description" : "",
 										"digest" : "",
 										"tags" : "",
-										"style" : "my_style",
+										"style" : "my_style-1",
 										"subpatcher_template" : "<none>",
 										"assistshowspatchername" : 0,
 										"boxes" : [ 											{
@@ -11130,8 +11268,8 @@
 													"maxclass" : "newobj",
 													"numinlets" : 1,
 													"numoutlets" : 0,
-													"patching_rect" : [ 504.51398707628249, 560.898662865161896, 87.000000000000057, 23.0 ],
-													"text" : "s searchFile01"
+													"patching_rect" : [ 504.51398707628249, 560.898662865161896, 84.0, 23.0 ],
+													"text" : "s searchFile04"
 												}
 
 											}
@@ -11143,8 +11281,8 @@
 													"numinlets" : 0,
 													"numoutlets" : 1,
 													"outlettype" : [ "" ],
-													"patching_rect" : [ 320.542746007442474, 267.902714371681213, 79.0, 23.0 ],
-													"text" : "r folderPath01"
+													"patching_rect" : [ 320.542746007442474, 267.902714371681213, 82.0, 23.0 ],
+													"text" : "r folderPath04"
 												}
 
 											}
@@ -11427,6 +11565,86 @@
 												"multi" : 0
 											}
 , 											{
+												"name" : "my_style-1",
+												"default" : 												{
+													"accentcolor" : [ 0.059999998658895, 0.059999998658895, 0.059999998658895, 1.0 ],
+													"bgcolor" : [ 0.059999998658895, 0.059999998658895, 0.059999998658895, 1.0 ],
+													"bgfillcolor" : 													{
+														"angle" : 270.0,
+														"autogradient" : 0.0,
+														"color" : [ 0.25, 0.25, 0.25, 1.0 ],
+														"color1" : [ 0.25, 0.25, 0.25, 1.0 ],
+														"color2" : [ 0.25, 0.25, 0.25, 1.0 ],
+														"proportion" : 0.5,
+														"type" : "gradient"
+													}
+,
+													"clearcolor" : [ 0.0, 0.0, 0.0, 0.0 ],
+													"color" : [ 0.0, 0.924261331558228, 0.0, 1.0 ],
+													"editing_bgcolor" : [ 0.75, 0.75, 0.75, 1.0 ],
+													"elementcolor" : [ 0.25, 0.25, 0.25, 1.0 ],
+													"fontface" : [ 0 ],
+													"fontname" : [ "Suisse Intl News" ],
+													"fontsize" : [ 11.0 ],
+													"locked_bgcolor" : [ 0.75, 0.75, 0.75, 1.0 ],
+													"patchlinecolor" : [ 0.25, 0.25, 0.25, 1.0 ],
+													"selectioncolor" : [ 0.0, 0.924261331558228, 0.0, 1.0 ],
+													"stripecolor" : [ 0.119999997317791, 0.119999997317791, 0.119999997317791, 1.0 ],
+													"textcolor" : [ 0.0, 0.0, 0.0, 1.0 ],
+													"textcolor_inverse" : [ 0.949999988079071, 0.949999988079071, 0.949999988079071, 1.0 ],
+													"textjustification" : [ 0 ]
+												}
+,
+												"comment" : 												{
+													"clearcolor" : [ 0.0, 0.0, 0.0, 0.0 ],
+													"fontface" : [ 0 ],
+													"fontname" : [ "Suisse Intl News" ],
+													"textjustification" : [ 0 ]
+												}
+,
+												"attrui" : 												{
+													"fontface" : [ 0 ],
+													"fontname" : [ "Suisse Intl News" ],
+													"textcolor_inverse" : [ 0.949999988079071, 0.949999988079071, 0.949999988079071, 1.0 ],
+													"textjustification" : [ 0 ]
+												}
+,
+												"message" : 												{
+													"fontface" : [ 0 ],
+													"fontname" : [ "Suisse Intl News" ],
+													"textcolor_inverse" : [ 0.949999988079071, 0.949999988079071, 0.949999988079071, 1.0 ],
+													"textjustification" : [ 0 ]
+												}
+,
+												"newobj" : 												{
+													"fontface" : [ 0 ],
+													"fontname" : [ "Suisse Intl News" ],
+													"textcolor_inverse" : [ 0.949999988079071, 0.949999988079071, 0.949999988079071, 1.0 ],
+													"textjustification" : [ 0 ]
+												}
+,
+												"nodes" : 												{
+													"fontface" : [ 0 ],
+													"fontname" : [ "Suisse Intl News" ]
+												}
+,
+												"number" : 												{
+													"fontface" : [ 0 ],
+													"fontname" : [ "Suisse Intl News" ],
+													"textcolor_inverse" : [ 0.949999988079071, 0.949999988079071, 0.949999988079071, 1.0 ]
+												}
+,
+												"umenu" : 												{
+													"fontface" : [ 0 ],
+													"fontname" : [ "Suisse Intl News" ],
+													"textcolor_inverse" : [ 0.949999988079071, 0.949999988079071, 0.949999988079071, 1.0 ],
+													"textjustification" : [ 0 ]
+												}
+,
+												"parentstyle" : "",
+												"multi" : 0
+											}
+, 											{
 												"name" : "my_style_05",
 												"default" : 												{
 													"accentcolor" : [ 0.059999998658895, 0.059999998658895, 0.059999998658895, 1.0 ],
@@ -11545,7 +11763,7 @@
 										"fontname" : "Suisse Intl News",
 										"fontsize" : 11.0,
 										"globalpatchername" : "",
-										"style" : "my_style",
+										"style" : "my_style-1",
 										"tags" : ""
 									}
 ,
@@ -14290,7 +14508,6 @@
 						"style" : "",
 						"subpatcher_template" : "",
 						"assistshowspatchername" : 0,
-						"visible" : 1,
 						"boxes" : [ 							{
 								"box" : 								{
 									"fontface" : 2,
@@ -23575,7 +23792,7 @@
 						}
 ,
 						"classnamespace" : "box",
-						"rect" : [ 34.0, 154.0, 1660.0, 929.0 ],
+						"rect" : [ -74.0, 236.0, 1660.0, 851.0 ],
 						"bglocked" : 0,
 						"openinpresentation" : 0,
 						"default_fontsize" : 11.0,
@@ -23603,7 +23820,6 @@
 						"style" : "my_style_05",
 						"subpatcher_template" : "",
 						"assistshowspatchername" : 0,
-						"visible" : 1,
 						"boxes" : [ 							{
 								"box" : 								{
 									"fontsize" : 11.0,
@@ -23664,8 +23880,8 @@
 									"maxclass" : "newobj",
 									"numinlets" : 1,
 									"numoutlets" : 0,
-									"patching_rect" : [ 46.938144445419312, 105.62408909201622, 89.061855554580688, 23.0 ],
-									"text" : "s folderPath02"
+									"patching_rect" : [ 46.938144445419312, 105.62408909201622, 83.0, 23.0 ],
+									"text" : "s folderPath03"
 								}
 
 							}
@@ -25396,7 +25612,7 @@
 						}
 ,
 						"classnamespace" : "box",
-						"rect" : [ 34.0, 128.0, 796.0, 955.0 ],
+						"rect" : [ 69.0, 257.0, 805.0, 879.0 ],
 						"bglocked" : 0,
 						"openinpresentation" : 0,
 						"default_fontsize" : 11.0,
@@ -34128,10 +34344,16 @@
  ],
 		"autosave" : 0,
 		"boxgroups" : [ 			{
-				"boxes" : [ "obj-436", "obj-106" ]
+				"boxes" : [ "obj-436", "obj-106", "obj-58", "obj-558" ]
 			}
 , 			{
-				"boxes" : [ "obj-521", "obj-108" ]
+				"boxes" : [ "obj-521", "obj-108", "obj-63", "obj-554" ]
+			}
+, 			{
+				"boxes" : [ "obj-50", "obj-185", "obj-597" ]
+			}
+, 			{
+				"boxes" : [ "obj-36", "obj-193", "obj-596" ]
 			}
  ],
 		"styles" : [ 			{
