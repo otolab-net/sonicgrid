@@ -51,7 +51,7 @@ I parametri generali consistono in:
 Pulsante che permette la selezione della cartella contenente i suoni che si vogliono
 utilizzare. 
 
-![folder chooser](/media/readme/image1.png)
+![folder chooser](/media/image1.png)
 
   
 
@@ -61,9 +61,9 @@ utilizzare.
 
 Selettore del suono tramite slider o menù a tendina.
 
-![selector slider](/media/readme/image2.png)
+![selector slider](/media/image2.png)
 
-![selector menu](/media/readme/image3.png)
+![selector menu](/media/image3.png)
 
 
   
@@ -74,7 +74,7 @@ Selettore del suono tramite slider o menù a tendina.
 
 Comandi di Attack, Decay, Sustain e Release.
 
-![adsr](/media/readme/image4.png)  
+![adsr](/media/image4.png)  
 
 - **X**
 
@@ -82,7 +82,7 @@ Comandi di Attack, Decay, Sustain e Release.
 
 Rappresenta la posizione del nodo rispetto alla coordinata X del pad.
 
-![node X](/media/readme/image5.png)
+![node X](/media/image5.png)
   
 
 - **Y**
@@ -91,7 +91,7 @@ Rappresenta la posizione del nodo rispetto alla coordinata X del pad.
 
 Rappresenta la posizione del nodo rispetto alla coordinata Y del pad.
 
-![node Y](/media/readme/image6.png)
+![node Y](/media/image6.png)
   
 
 - **SIZE**
@@ -101,7 +101,7 @@ Rappresenta la posizione del nodo rispetto alla coordinata Y del pad.
 Questo parametro rappresenta la dimensione della zona di presenza della
 sorgente all'interno del pad. Il valore standard è 0.9, scegliendo un valore più basso la sorgente occuperà uno spazio di minor rilevanza all'interno del pad, mentre scegliendo un valore più alto occuperà uno spazio maggiore.
 
-![node size](/media/readme/image7.png)
+![node size](/media/image7.png)
 
   
 
@@ -116,7 +116,7 @@ B. Highpass: taglia le frequenze sopra la frequenza di taglio.
 C. Bandpass: permette il passaggio di frequenze all'interno di un determinato intervallo.
 D. Band-stop (notch): permette il passaggio di frequenze fuori da un determinato intervallo.
 
-![filter mode](/media/readme/image8.png)  
+![filter mode](/media/image8.png)  
 
 - **CUTOFF**
 
@@ -124,14 +124,14 @@ D. Band-stop (notch): permette il passaggio di frequenze fuori da un determinato
 
 Parametro che permette di selezionare la frequenza di taglio del filtro.
 
-![filter cutoff](/media/readme/image9.png)
+![filter cutoff](/media/image9.png)
 - **Q**
 
   
 
 Fattore di merito del filtro. In modalità lowpass e highpass valori inferiori a 1 permettono di regolare la pendenza della curva di taglio, mentre valori superiori a 1 permettono di regolare la resonance. In modalità bandpass e band-stop il parametro regola la dimensione dell'intervallo.
 
-![filter Q](/media/readme/image10.png)
+![filter Q](/media/image10.png)
   
 
 - **WARP**
@@ -140,7 +140,7 @@ Fattore di merito del filtro. In modalità lowpass e highpass valori inferiori a
 
 Permette l'attivazione della modalità Warp, che permette di modificare il pitch del campione senza interferire sulla durata.
 
-![warp](/media/readme/image11.png)  
+![warp](/media/image11.png)  
 
 - **HOLD**
 
@@ -148,7 +148,7 @@ Permette l'attivazione della modalità Hold, che consente di mantenere il suono 
 
 N.B: L'Hold deve essere attivato dopo aver suonato la nota.
 
-![hold](/media/readme/image12.png)  
+![hold](/media/image12.png)  
 
 - **SWITCH FOLDER/INSTRUMENT**
 
@@ -159,7 +159,7 @@ C. Selezionare la modalità Instrument all'interno del canale desiderato.
 
 N.B: In modalità Instrument gli unici parametri che influiscono sul suono oltre a quelli relativi al nodo sono il filtro e il volume.
 
-![switch fldr/inst](/media/readme/image15.png)  
+![switch fldr/inst](/media/image15.png)  
 
 
 
@@ -173,7 +173,7 @@ Permette la ricerca testuale di determinati campioni all'interno della cartella.
 
 N.B: La ricerca è case sensitive, ovvero sensibile ai caratteri maiuscoli/minuscoli.
 
-![search](/media/readme/image13.png)
+![search](/media/image13.png)
   
 
 - **PREVIEW**
@@ -187,7 +187,7 @@ B. Selezionare come input della traccia audio la traccia in cui si trova SonicGr
 C. Attivare l'input monitoring.
 D. Selezionare l'uscita desiderata.
 
-![preview](/media/readme/image14.png)
+![preview](/media/image14.png)
 
 
 
@@ -197,13 +197,13 @@ D. Selezionare l'uscita desiderata.
 
 Parametro che permette di regolare il pitch del campione.
 
-![transpose](/media/readme/image16.png)  
+![transpose](/media/image16.png)  
 
 - **VOLUME**
 
 Parametro che permette di regolare il volume del campione.
 
-![channel volume](/media/readme/image17.png)  
+![channel volume](/media/image17.png)  
 
 ## **PARAMETRI GENERALI**
 
@@ -213,20 +213,20 @@ Parametro che permette di regolare il volume del campione.
 
 Rappresenta la posizione del cursore rispetto alla coordinata X del pad.
 
-![knob X](/media/readme/image18.png)
+![knob X](/media/image18.png)
 
 - **Y**
 
 
 Rappresenta la posizione del cursore rispetto alla coordinata Y del pad.
 
-![knob Y](/media/readme/image19.png)
+![knob Y](/media/image19.png)
 
 - **MASTER VOLUME**
 
 Controlla il volume generale di tutte 4 le sorgenti.
 
-![master volume](/media/readme/image20.png)
+![master volume](/media/image20.png)
   
 
 - **PRESET DI MOVIMENTO**
@@ -235,10 +235,10 @@ Controlla il volume generale di tutte 4 le sorgenti.
 
 Menù che permette la selezione di un preset di movimento del cursore all'interno del pad.
 
-![presets menu](/media/readme/image21.png)
+![presets menu](/media/image21.png)
 
 - **RESET**
 
 Permette di tornare alle impostazioni di partenza dei parametri relativi al pad.
 
-![reset](/media/readme/image22.png)
+![reset](/media/image22.png)
