@@ -10,7 +10,7 @@
 		}
 ,
 		"classnamespace" : "box",
-		"rect" : [ 0.0, 66.0, 1419.0, 1017.0 ],
+		"rect" : [ 567.0, 146.0, 1120.0, 937.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 1,
 		"default_fontsize" : 11.0,
@@ -92,7 +92,7 @@
 					"fontname" : "Ableton Sans Bold",
 					"fontsize" : 10.699999999999999,
 					"id" : "obj-180",
-					"items" : [ "Ravanhattha 080bpm Bb.wav", ",", "Ravanhattha 082bpm C#.wav", ",", "Ravanhattha 086bpm C# 01.wav", ",", "Ravanhattha 086bpm C# 02.wav", ",", "Ravanhattha 086bpm C# 03.wav", ",", "Ravanhattha 087bpm Bb 01.wav", ",", "Ravanhattha 087bpm Bb 02.wav", ",", "Ravanhattha 087bpm Bb 03.wav", ",", "Ravanhattha 098bpm Bb.wav", ",", "Ravanhattha 114bpm Bbm 01.wav", ",", "Ravanhattha 114bpm Bbm 02.wav" ],
+					"items" : "<empty>",
 					"maxclass" : "umenu",
 					"numinlets" : 1,
 					"numoutlets" : 3,
@@ -338,7 +338,7 @@
 					"fontname" : "Ableton Sans Bold",
 					"fontsize" : 10.699999999999999,
 					"id" : "obj-115",
-					"items" : [ "Indian Benjo 108bpm 6-8 Bbm.wav", ",", "Indian Benjo 120bpm 6-8 Bb.wav", ",", "Indian Benjo 125bpm 6-8 Bbm.wav", ",", "Indian Benjo 130bpm 6-8 F 01.wav", ",", "Indian Benjo 130bpm 6-8 F 02.wav", ",", "Indian Benjo 132bpm 6-8 F 01.wav", ",", "Indian Benjo 132bpm 6-8 F 02.wav", ",", "Indian Benjo 132bpm 6-8 F 03.wav", ",", "Indian Benjo 135bpm 6-8 F 01.wav", ",", "Indian Benjo 135bpm 6-8 F 02.wav", ",", "Indian Benjo 140bpm 6-8 F 01.wav", ",", "Indian Benjo 140bpm 6-8 F 02.wav", ",", "Indian Benjo 140bpm 6-8 F 03.wav", ",", "Indian Benjo 140bpm 6-8 F 04.wav", ",", "Indian Benjo 140bpm 6-8 F 05.wav", ",", "Indian Benjo 140bpm 6-8 F 06.wav", ",", "Indian Benjo 140bpm 6-8 F 07.wav" ],
+					"items" : "<empty>",
 					"maxclass" : "umenu",
 					"numinlets" : 1,
 					"numoutlets" : 3,
@@ -407,7 +407,7 @@
 					"fontname" : "Ableton Sans Bold",
 					"fontsize" : 10.699999999999999,
 					"id" : "obj-83",
-					"items" : [ "Indian Benjo 087bpm Eb.wav", ",", "Indian Benjo 092bpm F 01.wav", ",", "Indian Benjo 092bpm F 02.wav", ",", "Indian Benjo 102bpm F.wav", ",", "Indian Benjo 106bpm F 01.wav", ",", "Indian Benjo 106bpm F 02.wav", ",", "Indian Benjo 110bpm F 01.wav", ",", "Indian Benjo 110bpm F 02.wav", ",", "Indian Benjo 112bpm F.wav", ",", "Indian Benjo 140bpm F.wav", ",", "Indian Benjo 146bpm F 01.wav", ",", "Indian Benjo 146bpm F 02.wav", ",", "Indian Benjo 178bpm Ebm 01.wav", ",", "Indian Benjo 178bpm Ebm 02.wav", ",", "Indian Benjo 255bpm F 01.wav", ",", "Indian Benjo 255bpm F 02.wav", ",", "Indian Benjo 255bpm F 03.wav", ",", "Indian Benjo 255bpm F 04.wav" ],
+					"items" : "<empty>",
 					"maxclass" : "umenu",
 					"numinlets" : 1,
 					"numoutlets" : 3,
@@ -3726,7 +3726,7 @@
 													"fontname" : "Ableton Sans Medium",
 													"fontsize" : 16.0,
 													"id" : "obj-8",
-													"items" : [ "Indian", "Benjo", "108bpm", "6-8", "Bbm.wav", ",", "Indian", "Benjo", "120bpm", "6-8", "Bb.wav", ",", "Indian", "Benjo", "125bpm", "6-8", "Bbm.wav", ",", "Indian", "Benjo", "130bpm", "6-8", "F", "01.wav", ",", "Indian", "Benjo", "130bpm", "6-8", "F", "02.wav", ",", "Indian", "Benjo", "132bpm", "6-8", "F", "01.wav", ",", "Indian", "Benjo", "132bpm", "6-8", "F", "02.wav", ",", "Indian", "Benjo", "132bpm", "6-8", "F", "03.wav", ",", "Indian", "Benjo", "135bpm", "6-8", "F", "01.wav", ",", "Indian", "Benjo", "135bpm", "6-8", "F", "02.wav", ",", "Indian", "Benjo", "140bpm", "6-8", "F", "01.wav", ",", "Indian", "Benjo", "140bpm", "6-8", "F", "02.wav", ",", "Indian", "Benjo", "140bpm", "6-8", "F", "03.wav", ",", "Indian", "Benjo", "140bpm", "6-8", "F", "04.wav", ",", "Indian", "Benjo", "140bpm", "6-8", "F", "05.wav", ",", "Indian", "Benjo", "140bpm", "6-8", "F", "06.wav", ",", "Indian", "Benjo", "140bpm", "6-8", "F", "07.wav" ],
+													"items" : "<empty>",
 													"maxclass" : "chooser",
 													"numinlets" : 1,
 													"numoutlets" : 6,
@@ -6033,7 +6033,7 @@
 													"fontname" : "Ableton Sans Medium",
 													"fontsize" : 16.0,
 													"id" : "obj-8",
-													"items" : [ "Indian", "Benjo", "108bpm", "6-8", "Bbm.wav", ",", "Indian", "Benjo", "120bpm", "6-8", "Bb.wav", ",", "Indian", "Benjo", "125bpm", "6-8", "Bbm.wav", ",", "Indian", "Benjo", "130bpm", "6-8", "F", "01.wav", ",", "Indian", "Benjo", "130bpm", "6-8", "F", "02.wav", ",", "Indian", "Benjo", "132bpm", "6-8", "F", "01.wav", ",", "Indian", "Benjo", "132bpm", "6-8", "F", "02.wav", ",", "Indian", "Benjo", "132bpm", "6-8", "F", "03.wav", ",", "Indian", "Benjo", "135bpm", "6-8", "F", "01.wav", ",", "Indian", "Benjo", "135bpm", "6-8", "F", "02.wav", ",", "Indian", "Benjo", "140bpm", "6-8", "F", "01.wav", ",", "Indian", "Benjo", "140bpm", "6-8", "F", "02.wav", ",", "Indian", "Benjo", "140bpm", "6-8", "F", "03.wav", ",", "Indian", "Benjo", "140bpm", "6-8", "F", "04.wav", ",", "Indian", "Benjo", "140bpm", "6-8", "F", "05.wav", ",", "Indian", "Benjo", "140bpm", "6-8", "F", "06.wav", ",", "Indian", "Benjo", "140bpm", "6-8", "F", "07.wav" ],
+													"items" : "<empty>",
 													"maxclass" : "chooser",
 													"numinlets" : 1,
 													"numoutlets" : 6,
@@ -8176,7 +8176,7 @@
 													"fontname" : "Ableton Sans Medium",
 													"fontsize" : 16.0,
 													"id" : "obj-8",
-													"items" : [ "Indian", "Benjo", "087bpm", "Eb.wav", ",", "Indian", "Benjo", "092bpm", "F", "01.wav", ",", "Indian", "Benjo", "092bpm", "F", "02.wav", ",", "Indian", "Benjo", "102bpm", "F.wav", ",", "Indian", "Benjo", "106bpm", "F", "01.wav", ",", "Indian", "Benjo", "106bpm", "F", "02.wav", ",", "Indian", "Benjo", "110bpm", "F", "01.wav", ",", "Indian", "Benjo", "110bpm", "F", "02.wav", ",", "Indian", "Benjo", "112bpm", "F.wav", ",", "Indian", "Benjo", "140bpm", "F.wav", ",", "Indian", "Benjo", "146bpm", "F", "01.wav", ",", "Indian", "Benjo", "146bpm", "F", "02.wav", ",", "Indian", "Benjo", "178bpm", "Ebm", "01.wav", ",", "Indian", "Benjo", "178bpm", "Ebm", "02.wav", ",", "Indian", "Benjo", "255bpm", "F", "01.wav", ",", "Indian", "Benjo", "255bpm", "F", "02.wav", ",", "Indian", "Benjo", "255bpm", "F", "03.wav", ",", "Indian", "Benjo", "255bpm", "F", "04.wav" ],
+													"items" : "<empty>",
 													"maxclass" : "chooser",
 													"numinlets" : 1,
 													"numoutlets" : 6,
@@ -10403,7 +10403,7 @@
 													"fontname" : "Ableton Sans Medium",
 													"fontsize" : 16.0,
 													"id" : "obj-8",
-													"items" : [ "Ravanhattha", "080bpm", "Bb.wav", ",", "Ravanhattha", "082bpm", "C#.wav", ",", "Ravanhattha", "086bpm", "C#", "01.wav", ",", "Ravanhattha", "086bpm", "C#", "02.wav", ",", "Ravanhattha", "086bpm", "C#", "03.wav", ",", "Ravanhattha", "087bpm", "Bb", "01.wav", ",", "Ravanhattha", "087bpm", "Bb", "02.wav", ",", "Ravanhattha", "087bpm", "Bb", "03.wav", ",", "Ravanhattha", "098bpm", "Bb.wav", ",", "Ravanhattha", "114bpm", "Bbm", "01.wav", ",", "Ravanhattha", "114bpm", "Bbm", "02.wav" ],
+													"items" : "<empty>",
 													"maxclass" : "chooser",
 													"numinlets" : 1,
 													"numoutlets" : 6,
@@ -12355,7 +12355,7 @@
  ]
 					}
 ,
-					"patching_rect" : [ 4404.947469105322853, 971.710624551144292, 53.805422842502594, 23.0 ],
+					"patching_rect" : [ 4404.947469105322853, 971.710624551144292, 54.0, 23.0 ],
 					"saved_object_attributes" : 					{
 						"description" : "",
 						"digest" : "",
@@ -17221,7 +17221,7 @@
 					"fontname" : "Ableton Sans Bold",
 					"fontsize" : 10.699999999999999,
 					"id" : "obj-371",
-					"items" : [ "Indian Benjo 108bpm 6-8 Bbm.wav", ",", "Indian Benjo 120bpm 6-8 Bb.wav", ",", "Indian Benjo 125bpm 6-8 Bbm.wav", ",", "Indian Benjo 130bpm 6-8 F 01.wav", ",", "Indian Benjo 130bpm 6-8 F 02.wav", ",", "Indian Benjo 132bpm 6-8 F 01.wav", ",", "Indian Benjo 132bpm 6-8 F 02.wav", ",", "Indian Benjo 132bpm 6-8 F 03.wav", ",", "Indian Benjo 135bpm 6-8 F 01.wav", ",", "Indian Benjo 135bpm 6-8 F 02.wav", ",", "Indian Benjo 140bpm 6-8 F 01.wav", ",", "Indian Benjo 140bpm 6-8 F 02.wav", ",", "Indian Benjo 140bpm 6-8 F 03.wav", ",", "Indian Benjo 140bpm 6-8 F 04.wav", ",", "Indian Benjo 140bpm 6-8 F 05.wav", ",", "Indian Benjo 140bpm 6-8 F 06.wav", ",", "Indian Benjo 140bpm 6-8 F 07.wav" ],
+					"items" : "<empty>",
 					"maxclass" : "umenu",
 					"numinlets" : 1,
 					"numoutlets" : 3,
@@ -22589,20 +22589,6 @@
 							}
 , 							{
 								"box" : 								{
-									"embed_buffers" : 									{
-										"polyAbstract04.1" : "Ravanhattha 080bpm Bb.wav",
-										"polyAbstract04.2" : "Ravanhattha 082bpm C#.wav",
-										"polyAbstract04.3" : "Ravanhattha 086bpm C# 01.wav",
-										"polyAbstract04.4" : "Ravanhattha 086bpm C# 02.wav",
-										"polyAbstract04.5" : "Ravanhattha 086bpm C# 03.wav",
-										"polyAbstract04.6" : "Ravanhattha 087bpm Bb 01.wav",
-										"polyAbstract04.7" : "Ravanhattha 087bpm Bb 02.wav",
-										"polyAbstract04.8" : "Ravanhattha 087bpm Bb 03.wav",
-										"polyAbstract04.9" : "Ravanhattha 098bpm Bb.wav",
-										"polyAbstract04.10" : "Ravanhattha 114bpm Bbm 01.wav",
-										"polyAbstract04.11" : "Ravanhattha 114bpm Bbm 02.wav"
-									}
-,
 									"id" : "obj-16",
 									"linecount" : 3,
 									"maxclass" : "newobj",
@@ -23974,26 +23960,6 @@
 							}
 , 							{
 								"box" : 								{
-									"embed_buffers" : 									{
-										"polyAbstract03.1" : "Indian Benjo 108bpm 6-8 Bbm.wav",
-										"polyAbstract03.2" : "Indian Benjo 120bpm 6-8 Bb.wav",
-										"polyAbstract03.3" : "Indian Benjo 125bpm 6-8 Bbm.wav",
-										"polyAbstract03.4" : "Indian Benjo 130bpm 6-8 F 01.wav",
-										"polyAbstract03.5" : "Indian Benjo 130bpm 6-8 F 02.wav",
-										"polyAbstract03.6" : "Indian Benjo 132bpm 6-8 F 01.wav",
-										"polyAbstract03.7" : "Indian Benjo 132bpm 6-8 F 02.wav",
-										"polyAbstract03.8" : "Indian Benjo 132bpm 6-8 F 03.wav",
-										"polyAbstract03.9" : "Indian Benjo 135bpm 6-8 F 01.wav",
-										"polyAbstract03.10" : "Indian Benjo 135bpm 6-8 F 02.wav",
-										"polyAbstract03.11" : "Indian Benjo 140bpm 6-8 F 01.wav",
-										"polyAbstract03.12" : "Indian Benjo 140bpm 6-8 F 02.wav",
-										"polyAbstract03.13" : "Indian Benjo 140bpm 6-8 F 03.wav",
-										"polyAbstract03.14" : "Indian Benjo 140bpm 6-8 F 04.wav",
-										"polyAbstract03.15" : "Indian Benjo 140bpm 6-8 F 05.wav",
-										"polyAbstract03.16" : "Indian Benjo 140bpm 6-8 F 06.wav",
-										"polyAbstract03.17" : "Indian Benjo 140bpm 6-8 F 07.wav"
-									}
-,
 									"id" : "obj-16",
 									"linecount" : 3,
 									"maxclass" : "newobj",
@@ -25784,26 +25750,6 @@
 							}
 , 							{
 								"box" : 								{
-									"embed_buffers" : 									{
-										"polyAbstract02.1" : "Indian Benjo 108bpm 6-8 Bbm.wav",
-										"polyAbstract02.2" : "Indian Benjo 120bpm 6-8 Bb.wav",
-										"polyAbstract02.3" : "Indian Benjo 125bpm 6-8 Bbm.wav",
-										"polyAbstract02.4" : "Indian Benjo 130bpm 6-8 F 01.wav",
-										"polyAbstract02.5" : "Indian Benjo 130bpm 6-8 F 02.wav",
-										"polyAbstract02.6" : "Indian Benjo 132bpm 6-8 F 01.wav",
-										"polyAbstract02.7" : "Indian Benjo 132bpm 6-8 F 02.wav",
-										"polyAbstract02.8" : "Indian Benjo 132bpm 6-8 F 03.wav",
-										"polyAbstract02.9" : "Indian Benjo 135bpm 6-8 F 01.wav",
-										"polyAbstract02.10" : "Indian Benjo 135bpm 6-8 F 02.wav",
-										"polyAbstract02.11" : "Indian Benjo 140bpm 6-8 F 01.wav",
-										"polyAbstract02.12" : "Indian Benjo 140bpm 6-8 F 02.wav",
-										"polyAbstract02.13" : "Indian Benjo 140bpm 6-8 F 03.wav",
-										"polyAbstract02.14" : "Indian Benjo 140bpm 6-8 F 04.wav",
-										"polyAbstract02.15" : "Indian Benjo 140bpm 6-8 F 05.wav",
-										"polyAbstract02.16" : "Indian Benjo 140bpm 6-8 F 06.wav",
-										"polyAbstract02.17" : "Indian Benjo 140bpm 6-8 F 07.wav"
-									}
-,
 									"id" : "obj-16",
 									"linecount" : 3,
 									"maxclass" : "newobj",
@@ -26786,7 +26732,7 @@
 						}
 ,
 						"classnamespace" : "box",
-						"rect" : [ 34.0, 128.0, 1660.0, 860.0 ],
+						"rect" : [ 34.0, 99.0, 1660.0, 984.0 ],
 						"bglocked" : 0,
 						"openinpresentation" : 0,
 						"default_fontsize" : 11.0,
@@ -26833,7 +26779,7 @@
 									"numinlets" : 2,
 									"numoutlets" : 1,
 									"outlettype" : [ "" ],
-									"patching_rect" : [ 214.751916825771332, 119.502502650022507, 51.0, 22.0 ],
+									"patching_rect" : [ 214.751916825771332, 119.502502650022507, 51.0, 23.0 ],
 									"text" : "pipe 0.1"
 								}
 
@@ -26845,7 +26791,7 @@
 									"numinlets" : 2,
 									"numoutlets" : 1,
 									"outlettype" : [ "" ],
-									"patching_rect" : [ 104.917305608590453, 119.502502650022507, 51.0, 22.0 ],
+									"patching_rect" : [ 104.917305608590453, 119.502502650022507, 51.0, 23.0 ],
 									"text" : "pipe 0.1"
 								}
 
@@ -26857,7 +26803,7 @@
 									"numinlets" : 4,
 									"numoutlets" : 1,
 									"outlettype" : [ "" ],
-									"patching_rect" : [ 50.0, 145.676415652036667, 183.751916825771332, 23.0 ],
+									"patching_rect" : [ 50.0, 145.676415652036667, 184.0, 23.0 ],
 									"text" : "if $f1 != $f2 || $f3 != $f4 then $f1 $f3"
 								}
 
@@ -28430,7 +28376,7 @@
 						}
 ,
 						"classnamespace" : "box",
-						"rect" : [ 34.0, 128.0, 796.0, 955.0 ],
+						"rect" : [ 601.0, 180.0, 1086.0, 903.0 ],
 						"bglocked" : 0,
 						"openinpresentation" : 0,
 						"default_fontsize" : 11.0,
@@ -28455,9 +28401,10 @@
 						"description" : "",
 						"digest" : "",
 						"tags" : "",
-						"style" : "my_style_05",
+						"style" : "my_style",
 						"subpatcher_template" : "",
 						"assistshowspatchername" : 0,
+						"visible" : 1,
 						"boxes" : [ 							{
 								"box" : 								{
 									"comment" : "",
@@ -28615,27 +28562,6 @@
 							}
 , 							{
 								"box" : 								{
-									"embed_buffers" : 									{
-										"polyAbstract01.1" : "Indian Benjo 087bpm Eb.wav",
-										"polyAbstract01.2" : "Indian Benjo 092bpm F 01.wav",
-										"polyAbstract01.3" : "Indian Benjo 092bpm F 02.wav",
-										"polyAbstract01.4" : "Indian Benjo 102bpm F.wav",
-										"polyAbstract01.5" : "Indian Benjo 106bpm F 01.wav",
-										"polyAbstract01.6" : "Indian Benjo 106bpm F 02.wav",
-										"polyAbstract01.7" : "Indian Benjo 110bpm F 01.wav",
-										"polyAbstract01.8" : "Indian Benjo 110bpm F 02.wav",
-										"polyAbstract01.9" : "Indian Benjo 112bpm F.wav",
-										"polyAbstract01.10" : "Indian Benjo 140bpm F.wav",
-										"polyAbstract01.11" : "Indian Benjo 146bpm F 01.wav",
-										"polyAbstract01.12" : "Indian Benjo 146bpm F 02.wav",
-										"polyAbstract01.13" : "Indian Benjo 178bpm Ebm 01.wav",
-										"polyAbstract01.14" : "Indian Benjo 178bpm Ebm 02.wav",
-										"polyAbstract01.15" : "Indian Benjo 255bpm F 01.wav",
-										"polyAbstract01.16" : "Indian Benjo 255bpm F 02.wav",
-										"polyAbstract01.17" : "Indian Benjo 255bpm F 03.wav",
-										"polyAbstract01.18" : "Indian Benjo 255bpm F 04.wav"
-									}
-,
 									"id" : "obj-16",
 									"linecount" : 3,
 									"maxclass" : "newobj",
@@ -28989,7 +28915,7 @@
 						"fontname" : "Suisse Intl News",
 						"fontsize" : 11.0,
 						"globalpatchername" : "",
-						"style" : "my_style_05",
+						"style" : "my_style",
 						"tags" : ""
 					}
 ,
@@ -30417,7 +30343,7 @@
 					"numinlets" : 2,
 					"numoutlets" : 2,
 					"outlettype" : [ "", "" ],
-					"patching_rect" : [ 1820.438137178619399, 1204.822442263364792, 141.866343448559746, 37.0 ],
+					"patching_rect" : [ 1820.438137178619399, 1204.822442263364792, 142.0, 37.0 ],
 					"style" : "my_style",
 					"text" : "combine polyAbstract01. i @triggers 1"
 				}
@@ -30921,7 +30847,7 @@
 , 			{
 				"patchline" : 				{
 					"destination" : [ "obj-55", 1 ],
-					"midpoints" : [ 1828.938137178619399, 1202.247491210699081, 1952.804480627179146, 1202.247491210699081 ],
+					"midpoints" : [ 1828.938137178619399, 1202.247491210699081, 1952.938137178619399, 1202.247491210699081 ],
 					"source" : [ "obj-149", 0 ]
 				}
 
