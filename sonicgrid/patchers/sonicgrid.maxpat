@@ -10,7 +10,7 @@
 		}
 ,
 		"classnamespace" : "box",
-		"rect" : [ 0.0, 198.0, 1694.0, 885.0 ],
+		"rect" : [ 0.0, 250.0, 1694.0, 833.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 1,
 		"default_fontsize" : 11.0,
@@ -79,7 +79,7 @@
 					"parameter_enable" : 1,
 					"patching_rect" : [ 4444.324007128675476, 951.657666521343344, 15.238935738801956, 14.115044176578522 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 477.96369606357166, 164.671906755492273, 14.33987008407712, 13.560304213315248 ],
+					"presentation_rect" : [ 991.228997291141241, 149.875988529250208, 14.33987008407712, 13.560304213315248 ],
 					"saved_attribute_attributes" : 					{
 						"activebgcolor" : 						{
 							"expression" : ""
@@ -139,7 +139,7 @@
 					"automationon" : "bang",
 					"bgcolor" : [ 0.647058823529412, 0.647058823529412, 0.647058823529412, 0.0 ],
 					"bgoncolor" : [ 0.764705882352941, 0.764705882352941, 0.764705882352941, 0.0 ],
-					"bordercolor" : [ 0.513725490196078, 0.76078431372549, 0.305882352941176, 0.0 ],
+					"bordercolor" : [ 0.203921568627451, 1.0, 0.0, 0.0 ],
 					"focusbordercolor" : [ 0.313725490196078, 0.313725490196078, 0.313725490196078, 0.0 ],
 					"fontname" : "Ableton Sans Bold",
 					"fontsize" : 10.800000000000001,
@@ -152,7 +152,7 @@
 					"parameter_enable" : 1,
 					"patching_rect" : [ 4407.279328544934287, 950.983769821491705, 18.33628112077713, 15.442477911710739 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 444.09592988487907, 164.408014810830537, 14.33987008407712, 13.560304213315248 ],
+					"presentation_rect" : [ 957.36123111244865, 149.612096584588471, 14.33987008407712, 13.560304213315248 ],
 					"saved_attribute_attributes" : 					{
 						"activebgcolor" : 						{
 							"expression" : ""
@@ -8738,7 +8738,6 @@
 			}
 , 			{
 				"box" : 				{
-					"align" : 0,
 					"bgcolor" : [ 0.0, 0.0, 0.0, 1.0 ],
 					"bgfillcolor_angle" : 270.0,
 					"bgfillcolor_autogradient" : 0.0,
@@ -8760,8 +8759,7 @@
 					"prefix_mode" : 1,
 					"presentation" : 1,
 					"presentation_rect" : [ 43.53313362910626, 59.996676723648534, 267.543564493457552, 21.0 ],
-					"style" : "my_style",
-					"textjustification" : 0
+					"style" : "my_style"
 				}
 
 			}
@@ -8813,7 +8811,6 @@
 			}
 , 			{
 				"box" : 				{
-					"align" : 0,
 					"bgcolor" : [ 0.0, 0.0, 0.0, 1.0 ],
 					"bgfillcolor_angle" : 270.0,
 					"bgfillcolor_autogradient" : 0.0,
@@ -8835,8 +8832,7 @@
 					"prefix_mode" : 1,
 					"presentation" : 1,
 					"presentation_rect" : [ 43.205432139975528, 144.71191019449634, 267.848203624288317, 21.0 ],
-					"style" : "my_style",
-					"textjustification" : 0
+					"style" : "my_style"
 				}
 
 			}
@@ -16402,7 +16398,7 @@
 													"outlettype" : [ "", "", "", "", "", "" ],
 													"parameter_enable" : 0,
 													"patching_rect" : [ 246.09708696603775, 304.757281899452209, 444.513987076282547, 207.0 ],
-													"prefix" : "Internal SSD:/Users/manuelfarzini/mydocs/audio/loops_samples/Packs/Indian Folk/Indian Folk - WAV/Bollywood Violins/Bollywood Violins 4-4/",
+													"prefix" : "Internal SSD:/Users/manuelfarzini/mydocs/resume/website/Website25/manuelfarzini/DialoguesInAI/audio/",
 													"prefix_mode" : 2,
 													"presentation" : 1,
 													"presentation_rect" : [ 1.271000921726227, 1.365977883338928, 572.090261232852981, 720.581732273101807 ],
@@ -17481,7 +17477,7 @@
 													"outlettype" : [ "", "", "", "", "", "" ],
 													"parameter_enable" : 0,
 													"patching_rect" : [ 246.0, 332.0, 449.981184422969818, 225.0 ],
-													"prefix" : "Internal SSD:/Users/manuelfarzini/mydocs/audio/loops_samples/Packs/Indian Folk/Indian Folk - WAV/Bollywood Violins/Bollywood Violins 4-4/",
+													"prefix" : "Internal SSD:/Users/manuelfarzini/mydocs/resume/website/Website25/manuelfarzini/DialoguesInAI/audio/",
 													"prefix_mode" : 2,
 													"presentation" : 1,
 													"presentation_rect" : [ 6.093649566173553, 40.571391224861145, 449.981184422969818, 225.0 ],
